@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👨‍💻 Hardik Charaya – Developer Portfolio
 
-<!--
-**Hardik7776/Hardik7776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal developer portfolio!  
+I’m a final-year Computer Engineering student passionate about building efficient and real-world software solutions. This repository highlights some of my key academic and personal projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+
+### 🩺 Doctor Appointment Booking Website
+A responsive web application that allows patients to book appointments with doctors seamlessly.  
+**Features:** User login, doctor profiles, slot selection, and appointment confirmation.  
+**Tech Stack:** HTML, CSS, JavaScript
+
+### 🧮 Base Decoding System
+A backend tool to decode and interpret various encoded formats, improving data processing and reliability.  
+**Tech Stack:** C++, Data Structures
+
+### ⛓️ Blockchain-Based Loyalty Program
+A decentralized loyalty rewards system built to improve customer retention and trust using blockchain.  
+**Tech Stack:** Blockchain concepts, JavaScript
+
+---
+
+## 🧠 Skills Highlighted
+- Proficient in **C++** and **Data Structures**
+- Hands-on with **HTML**, **CSS**, **JavaScript**, and **React.js**
+- Basic understanding of **Machine Learning** and **Relational Databases**
+- Interest in Blockchain and secure applications
+
+---
+
+## 📫 Connect with Me
+- 🌐 [LinkedIn](https://linkedin.com/in/hardik-charaya)  
+- 💻 [GitHub](https://github.com/Hardik7776)
+
+---
+
+⭐ Thank you for visiting my portfolio. Feel free to explore, fork, or connect!
+
+
+
