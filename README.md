@@ -12,9 +12,8 @@ A responsive web application that allows patients to book appointments with doct
 **Features:** User login, doctor profiles, slot selection, and appointment confirmation.  
 **Tech Stack:** HTML, CSS, JavaScript
 
-### 🧮 Base Decoding System
-A backend tool to decode and interpret various encoded formats, improving data processing and reliability.  
-**Tech Stack:** C++, Data Structures
+### 🧮 Base Decoding and encoding tool
+Created a Base Encoder/Decoder web tool using HTML, CSS, and JavaScript. It allows users to encode and decode text in Base64, Hexadecimal, and Base256 formats. The app features a clean interface, real-time processing, and input validation. This project highlights front-end development skills and understanding of text encoding methods using pure client-side scripting.
 
 ### ⛓️ Blockchain-Based Loyalty Program
 A decentralized loyalty rewards system built to improve customer retention and trust using blockchain.  
