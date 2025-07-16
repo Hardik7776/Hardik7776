@@ -1,7 +1,7 @@
 # 👨‍💻 Hardik Charaya – Developer Portfolio
 
 Welcome to my personal developer portfolio!  
-I’m a final-year Computer Engineering student passionate about building efficient and real-world software solutions. This repository highlights some of my key academic and personal projects.
+Recent Computer Science graduate with strong fundamentals in programming, data structures, and full-stack development. Eager to apply technical and problem-solving skills in a software development role and contribute to impactful projects in a growth-driven organization.I’m a final-year Computer Engineering student passionate about building efficient and real-world software solutions. This repository highlights some of my key academic and personal projects.
 
 ---
 
