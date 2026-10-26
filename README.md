@@ -62,7 +62,6 @@ I am currently focused on building strong skills in:
 ### API Testing
 - REST API
 - Postman
-- REST Assured
 - GraphQL
 - Authentication & Authorization
 - API Automation
@@ -159,6 +158,16 @@ Chandigarh University, Mohali, Punjab
 ---
 
 ## 💼 Experience
+
+Fovea Infotech, Mohali
+Duration: 6 Months
+
+Performed manual testing and functional testing of web applications
+Created and executed test cases for different application workflows
+Worked with JavaScript and Playwright for browser automation
+Assisted in regression testing and defect identification
+Reported bugs and supported defect retesting
+Used Git and GitHub to manage and maintain testing-related work
 
 ### Accenture Nordics — Software Engineer Virtual Internship
 
